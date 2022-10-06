@@ -1,4 +1,4 @@
-# BloggingApp
+# BloggingWebApp
 ## Description
 
 ### This is a Blogging Website that allows the Author to publish posts using Django administration site.
